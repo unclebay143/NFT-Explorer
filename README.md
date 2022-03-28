@@ -2,7 +2,7 @@
 
 Watch Demo [here](https://www.youtube.com/watch?v=-8xUElji614)
 
-Learn how to buil NFT Explorer [here](url)
+Learn how to build NFT Explorer [here](url)
 
 # Tech
 
