@@ -2,7 +2,7 @@
 
 Watch Demo [here](https://www.youtube.com/watch?v=-8xUElji614).
 
-Learn how to build NFT Explorer [here](url).
+Learn how to build NFT Explorer [here](https://web3.hashnode.com/how-to-build-your-own-nft-explorer-with-moralis-react-sdk).
 
 # Tech
 
